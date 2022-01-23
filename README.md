@@ -1,17 +1,15 @@
-<h1 align="center"> Hello, I am Avanish V Patil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> Hello, I am Soumya B H <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2 align="center"> I'm a Computer Science Student pursuing my B.Tech from PES University, India. Passionate about Web development and Data analytics.</h2>
+<h2 align="center"> I'm a Electronics and Electrical Student pursuing my B.Tech from PES University, India. Passionate about Web development and Data analytics.</h2>
 
-- 🕴 Backend Developer at IEEE RAS, PESU
-- 💻 Technical Team Member at the Alcoding Club
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Verilog-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/SystemVerilog-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
 
