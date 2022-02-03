@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I am Soumya B H <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> Hello, I am Soumya B H<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <h2 align="center"> I'm a Electronics and Electrical Student pursuing my B.Tech from PES University, India. Passionate about Web development and Data analytics.</h2>
 
