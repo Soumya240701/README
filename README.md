@@ -31,3 +31,8 @@
 <a href = "https://www.instagram.com/soumya_h_24" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </a>
 
+![Soumya's Github stats](https://github-readme-stats.vercel.app/api?username=Soumya240701&count_private=true&theme=tokyonight)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya240701&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soumya240701&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
